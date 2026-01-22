@@ -23,5 +23,5 @@ classic and recent papers with links.
 ### Foundational Works
 - **Communication-Efficient Learning of Deep Networks from Decentralized Data**  
   McMahan et al., AISTATS 2017  
-  https://arxiv.org/abs/1602.05629
+  https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf
 
