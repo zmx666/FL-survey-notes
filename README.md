@@ -24,7 +24,7 @@ classic and recent papers with links.
 - **Communication-Efficient Learning of Deep Networks from Decentralized Data**  
   AISTATS 2017  
   https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf
-- **Communication-Efficient Learning of Deep Networks from Decentralized Data**  
+- **FedProto: Federated Prototype Learning across Heterogeneous Clients**  
   AAAI 2022  
   https://ojs.aaai.org/index.php/AAAI/article/view/20819
   
