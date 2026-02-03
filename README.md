@@ -27,6 +27,7 @@ classic and recent papers with links.
 - **FedProto: Federated Prototype Learning across Heterogeneous Clients**  
   AAAI 2022  
   https://ojs.aaai.org/index.php/AAAI/article/view/20819
-  
+- **Ditto: Fair and Robust Federated Learning Through Personalization**
+  ICML 2021
   
   
