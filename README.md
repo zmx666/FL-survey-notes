@@ -11,10 +11,7 @@ classic and recent papers with links.
 ---
 
 ## Quick Navigation
-- 📄 Paper list: links only (current stage)
-- 📝 Notes: `notes/` (to be filled)
-- 🧪 Reproduction: `repro/` (to be filled)
-- 📚 Resources: `resources/` (to be filled)
+- 📄 Paper list: links 
 
 ---
 
