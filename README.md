@@ -17,14 +17,13 @@ classic and recent papers with links.
 - [08. Federated Graph and Multi-view Learning](#08-federated-graph-and-multi-view-learning)
 - [09. Privacy-Preserving Federated Learning](#09-privacy-preserving-federated-learning)
 - [10. Top Journal Papers](#10-top-journal-papers)
-- [11. Surveys and Tutorials](#11-surveys-and-tutorials)
 
-## 01. Foundational Works (2 papers)
+## 01. Foundational Works
 
 - **[Communication-Efficient Learning of Deep Networks from Decentralized Data](https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)** — AISTATS 2017 · *FedAvg*
 - **[Towards Federated Learning at Scale: System Design](https://proceedings.mlsys.org/paper_files/paper/2019/hash/7b770da633baf74895be22a8807f1a8f-Abstract.html)** — MLSys 2019
 
-## 02. Federated Optimization and Generalization (12 papers)
+## 02. Federated Optimization and Generalization
 
 - **[Federated Optimization in Heterogeneous Networks](https://proceedings.mlsys.org/paper_files/paper/2020/hash/1f5fe83998a09396ebe6477d9475ba0c-Abstract.html)** — MLSys 2020 · *FedProx*
 - **[SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](https://proceedings.mlr.press/v119/karimireddy20a.html)** — ICML 2020
@@ -39,7 +38,7 @@ classic and recent papers with links.
 - **[One Arrow, Two Hawks: Sharpness-aware Minimization for Federated Learning via Global Model Trajectory](https://proceedings.mlr.press/v267/li25bd.html)** — ICML 2025 · *FedGMT*
 - **[Momentum-Driven Adaptivity: Towards Tuning-Free Asynchronous Federated Learning](https://proceedings.mlr.press/v267/yan25f.html)** — ICML 2025
 
-## 03. Personalized Federated Learning (17 papers)
+## 03. Personalized Federated Learning 
 
 - **[Personalized Federated Learning with Moreau Envelopes](https://papers.neurips.cc/paper_files/paper/2020/hash/f4f1f13c8289ac1b1ee0ff176b56fc60-Abstract.html)** — NeurIPS 2020 · *pFedMe*
 - **[Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach](https://proceedings.neurips.cc/paper/2020/hash/24389bfe4fe2eba8bf9aa9203a44cdad-Abstract.html)** — NeurIPS 2020 · *Per-FedAvg*
@@ -50,7 +49,6 @@ classic and recent papers with links.
 - **[Personalized Federated Learning with Feature Alignment and Classifier Collaboration](https://openreview.net/forum?id=SXZr8aDKia)** — ICLR 2023 · *FedPAC*
 - **[Bold but Cautious: Unlocking the Potential of Personalized Federated Learning through Cautiously Aggressive Collaboration](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Bold_but_Cautious_Unlocking_the_Potential_of_Personalized_Federated_Learning_ICCV_2023_paper.html)** — ICCV 2023 · *FedCAC*
 - **[Personalized Federated Learning with Inferred Collaboration Graphs](https://proceedings.mlr.press/v202/ye23b.html)** — ICML 2023 · *pFedGraph*
-- **[FedAS: Bridging Inconsistency in Personalized Federated Learning](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_FedAS_Bridging_Inconsistency_in_Personalized_Federated_Learning_CVPR_2024_paper.html)** — CVPR 2024
 - **[Personalized Federated Learning via Feature Distribution Adaptation](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8ce6c5450ccddbe6adee4b3749893587-Abstract-Conference.html)** — NeurIPS 2024 · *pFedFDA*
 - **[FedCALM: Conflict-aware Layer-wise Mitigation for Selective Aggregation in Deeper Personalized Federated Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Zheng_FedCALM_Conflict-aware_Layer-wise_Mitigation_for_Selective_Aggregation_in_Deeper_Personalized_CVPR_2025_paper.html)** — CVPR 2025
 - **[Federated Oriented Learning: A Practical One-Shot Personalized Federated Learning Framework](https://proceedings.mlr.press/v267/huang25ae.html)** — ICML 2025
@@ -59,7 +57,7 @@ classic and recent papers with links.
 - **[FedMerge: Federated Model Merging for Personalization](https://ojs.aaai.org/index.php/AAAI/article/view/39113)** — AAAI 2026
 - **[PPFL: A Parameter Behavior-Driven Plug-in Personalization Engine for Federated Learning](https://ojs.aaai.org/index.php/AAAI/article/view/39073)** — AAAI 2026
 
-## 04. Prototype and Representation Learning (8 papers)
+## 04. Prototype and Representation Learning 
 
 - **[FedProto: Federated Prototype Learning across Heterogeneous Clients](https://ojs.aaai.org/index.php/AAAI/article/view/20819)** — AAAI 2022
 - **[Model-Contrastive Federated Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Model-Contrastive_Federated_Learning_CVPR_2021_paper.html)** — CVPR 2021 · *MOON*
@@ -70,12 +68,12 @@ classic and recent papers with links.
 - **[Intra-Class Unbiased Prototype Aggregation and Classifier Collaboration for Personalized Federated Learning](https://ojs.aaai.org/index.php/AAAI/article/view/40113)** — AAAI 2026 · *FedIC*
 - **[FedPKDA: Personalized Federated Learning with Privacy-Preserving Knowledge Dynamic Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/40037)** — AAAI 2026
 
-## 05. Federated Knowledge Distillation (2 papers)
+## 05. Federated Knowledge Distillation 
 
 - **[Ensemble Distillation for Robust Model Fusion in Federated Learning](https://proceedings.neurips.cc/paper/2020/hash/18df51b97ccd68128e994804f3eccc87-Abstract.html)** — NeurIPS 2020 · *FedDF*
 - **[Data-Free Knowledge Distillation for Heterogeneous Federated Learning](https://proceedings.mlr.press/v139/zhu21b.html)** — ICML 2021 · *FedGen*
 
-## 06. Federated Prompt Learning (6 papers)
+## 06. Federated Prompt Learning
 
 - **[Federated Adaptive Prompt Tuning for Multi-Domain Collaborative Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29434)** — AAAI 2024 · *FedAPT*
 - **[Federated Text-driven Prompt Generation for Vision-Language Models](https://proceedings.iclr.cc/paper_files/paper/2024/hash/37e90dcf2909b5068858b34b5239f187-Abstract-Conference.html)** — ICLR 2024 · *FedTPG*
@@ -84,24 +82,24 @@ classic and recent papers with links.
 - **[FedPHA: Federated Prompt Learning for Heterogeneous Client Adaptation](https://proceedings.mlr.press/v267/fang25e.html)** — ICML 2025
 - **[FedMGP: Personalized Federated Learning with Multi-Group Text-Visual Prompts](https://proceedings.neurips.cc/paper_files/paper/2025/hash/4a4d5fca4bbb93ead4548854f1f28c0f-Abstract-Conference.html)** — NeurIPS 2025
 
-## 07. Federated Foundation Models and LLMs (4 papers)
+## 07. Federated Foundation Models and LLMs 
 
 - **[On-Device Collaborative Language Modeling via a Mixture of Generalists and Specialists](https://proceedings.mlr.press/v267/fan25h.html)** — ICML 2025
 - **[FedP²EFT: Federated Learning to Personalize PEFT for Multilingual LLMs](https://ojs.aaai.org/index.php/AAAI/article/view/39443)** — AAAI 2026
 - **[FedALT: Federated Fine-Tuning Through Adaptive Local Training with Rest-of-World LoRA](https://ojs.aaai.org/index.php/AAAI/article/view/39054)** — AAAI 2026
 - **[Bi-level Personalization for Federated Foundation Models: A Task-vector Aggregation Approach](https://ojs.aaai.org/index.php/AAAI/article/view/39991)** — AAAI 2026
 
-## 08. Federated Graph and Multi-view Learning (3 papers)
+## 08. Federated Graph and Multi-view Learning 
 
 - **[Less is More: Federated Graph Learning with Alleviating Topology Heterogeneity from A Causal Perspective](https://proceedings.mlr.press/v267/fu25a.html)** — ICML 2025
 - **[FedIGL: Federated Invariant Graph Learning for Non-IID Graphs](https://doi.org/10.52202/085713-3931)** — NeurIPS 2025
 - **[An Effective and Secure Federated Multi-View Clustering Method with Information-Theoretic Perspective](https://proceedings.mlr.press/v267/chen25az.html)** — ICML 2025
 
-## 09. Privacy-Preserving Federated Learning (1 papers)
+## 09. Privacy-Preserving Federated Learning 
 
 - **[Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://acmccs.github.io/papers/p1175-bonawitzA.pdf)** — ACM CCS 2017
 
-## 10. Top Journal Papers (7 papers)
+## 10. Journal Papers 
 
 - **[Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark](https://doi.org/10.1109/TPAMI.2024.3418862)** — IEEE TPAMI 2024
 - **[Addressing Skewed Heterogeneity via Federated Prototype Rectification With Personalization](https://doi.org/10.1109/TNNLS.2024.3438281)** — IEEE TNNLS 2024 · *Online 2024*
